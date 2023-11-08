@@ -1,0 +1,10 @@
+* {
+    background-color: blue;
+}
+.headingstyle{
+    font-style: italic;
+}
+.pstyle{
+    font-style: inherit;
+    color: blueviolet;
+}
