@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(224, 223, 223);
+}
+.ar{
+    padding-left:10px ;
+    
+}
+.as{
+    padding-left:10px ;
+}
+.ars{
+    /* background-image: url("C:\Users\ARSHAD\Desktop\61cf04f457f55252a5a31c53_Cloud-based-Inventory-Management-System.png"); */
+    backdrop-filter: blur(50px);
+    background-color: rgb(234, 193, 106);
+    padding: auto;
+    background-image: URL("C:\Users\jagan\OneDrive\Desktop\jagan143.JPG");
+}
+.site-footer {
+    background-color:rgb(27, 26, 24); /* Change this color to your desired background color */
+    color: #fff;
+    padding: 30px 0;
+    height:100px;
+}
+.sye{
+    align-items: right;
+    justify-content: right;
+}
+
+.social-icons a {
+    font-size: 7px;
+    margin: 0 10px;
+    text-decoration: none;
+    color: #fff;
+    transition: color 0.3s ease-in-out;
+}
+
+.text-white:hover{
+    color:rgb(139, 0, 90);
+}
+
+.text-white1:hover{
+    color:rgb(0, 102, 255);
+}
+
+.text-white2:hover{
+    color:red;
+}
+
+.text-white3:hover{
+    color:green;
+}
+.hm{
+    background-image: url("C:\Users\jagan\OneDrive\Desktop\jagan143.JPG");
+    background-repeat: no-repeat ;
+    background-size: cover;
+    backdrop-filter: blur(100px);
+}
+.footer{
+    background-color: rgb(30, 104, 95);
+}
+.api{
+    background-color: rgb(30, 104, 95);
+}
+.lol{
+    /* background-image: url("https://www.ulcdn.net/media/furniture-stores/coimbatore/avinashiroad/Avinashi-Road-TN-store-mobile.jpg?1683050227"); */
+    height: 600px;
+    /* background-color: red; */
+}

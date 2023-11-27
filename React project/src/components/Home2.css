@@ -1,0 +1,98 @@
+body{
+    background-color: rgb(224, 223, 223);
+}
+.ar{
+    padding-left:10px ;
+    
+}
+.as{
+    padding-left:10px ;
+}
+.ars{
+    /* background-image: url("C:\Users\ARSHAD\Desktop\61cf04f457f55252a5a31c53_Cloud-based-Inventory-Management-System.png"); */
+    backdrop-filter: blur(50px);
+    background-color: rgb(234, 193, 106);
+    padding: auto;
+    background-image: URL("C:\Users\jagan\OneDrive\Desktop\jagan143.JPG");
+}
+.site-footer {
+    background-color:rgb(27, 26, 24); /* Change this color to your desired background color */
+    color: #fff;
+    padding: 30px 0;
+    height:100px;
+}
+.sye{
+    align-items: right;
+    justify-content: right;
+}
+
+.social-icons a {
+    font-size: 7px;
+    margin: 0 10px;
+    text-decoration: none;
+    color: #fff;
+    transition: color 0.3s ease-in-out;
+}
+
+.text-white:hover{
+    color:rgb(139, 0, 90);
+}
+
+.text-white1:hover{
+    color:rgb(0, 102, 255);
+}
+
+.text-white2:hover{
+    color:red;
+}
+
+.text-white3:hover{
+    color:green;
+}
+.hm{
+    background-image: url("https://uploads-ssl.webflow.com/5f59bf8d04206c6bf41363a9/5fb7c18e8411aa7f400e0662_effective-vendor-selection-holds-the-key-to-successful-vendor-management-system-vms.jpg");
+    background-repeat: no-repeat ;
+    background-size: cover;
+    backdrop-filter: blur(100px);
+}
+.footer{
+    background-color: rgb(30, 104, 95);
+}
+.api{
+    background-color: rgb(30, 104, 95);
+}
+.ui{
+    padding-left: 10px;
+}
+.lol{
+    /* background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.ulcdn.net%2Fmedia%2Ffurniture-stores%2Fcoimbatore%2Ftv-swamy%2FTV_Swamy_store-Coimbatore-store-mobile-773X413.jpg%3F1681196142&tbnid=ezZukEEVYJg1KM&vet=12ahUKEwitnrGphdyCAxWDbmwGHZM7DG0QMygCegUIARDHAQ..i&imgrefurl=https%3A%2F%2Fwww.urbanladder.com%2Ffurniture-stores%2Fcoimbatore&docid=Xvew8SC7_8gwdM&w=773&h=413&q=furnitures&ved=2ahUKEwitnrGphdyCAxWDbmwGHZM7DG0QMygCegUIARDHAQ"); */
+    background-position: center;
+}
+.ape{
+    background-color: rgb(127, 132, 131);
+}
+.foot{
+    background-color:  rgb(127, 132, 131);
+}
+.qwe{
+    backdrop-filter: blur(50px);
+    background-color: rgb(234, 193, 106);
+    padding: auto;
+    /* background-image: URL('https://files.123freevectors.com/wp-content/original/121376-abstract-light-grey-texture-background-design.jpg'); */
+}
+.app{
+    
+    background-color: rgb(181, 181, 181);
+}
+.foo{
+    
+    background-color: rgb(181, 181, 181);
+}
+
+.ar{
+    background-image: url('https://img.freepik.com/free-vector/white-abstract-background-design_23-2148825582.jpg?size=626&ext=jpg&ga=GA1.1.2116175301.1700956800&semt=ais');
+    backdrop-filter: blur(50px);
+    background-color: rgb(84, 83, 80);
+    padding: auto;
+    /* background-image: URL("C:Users\ARSHAD\Desktop\170721a5c788ff7f6b2764014afd4eef.jpg"); */
+}
